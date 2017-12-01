@@ -1,9 +1,9 @@
 # Version: 10.12.0.18 (d15-3: 4a279c9a)
 # [first argument, ignore] # --cache
 /Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.18/lib/mtouch/mtouch.exe \
-	/Users/allan.melo/Projects/Calitrix/iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	/Users/allan.melo/gitProjects/CalitrixComponents/iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
 	--sim \
-	/Users/allan.melo/Projects/Calitrix/iOS/bin/iPhoneSimulator/Debug/CalitrixComponentsSample.iOS.app \
+	/Users/allan.melo/gitProjects/CalitrixComponents/iOS/bin/iPhoneSimulator/Debug/CalitrixComponentsSample.iOS.app \
 	--executable \
 	CalitrixComponentsSample.iOS \
 	--debug \
@@ -18,14 +18,14 @@
 	--http-message-handler=HttpClientHandler \
 	"--abi=i386,x86_64" \
 	--symbollist \
-	/Users/allan.melo/Projects/Calitrix/iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	/Users/allan.melo/gitProjects/CalitrixComponents/iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
 	--dsym=no \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/Calitrix.Forms/bin/Debug/Calitrix.Forms.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/Calitrix.Forms/bin/Debug/Calitrix.Forms.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/Calitrix.Forms/Calitrix.Forms.iOS/bin/Debug/Calitrix.Forms.iOS.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/Calitrix.Forms/Calitrix.Forms.iOS/bin/Debug/Calitrix.Forms.iOS.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/CalitrixComponentsSample/bin/Debug/CalitrixComponentsSample.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/CalitrixComponentsSample/bin/Debug/CalitrixComponentsSample.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r \
@@ -35,13 +35,13 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
 	-r \
@@ -319,87 +319,87 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.Xsl.Primitives.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/Calitrix.Forms/bin/Debug/Calitrix.Forms.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/Calitrix.Forms/bin/Debug/Calitrix.Forms.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/Calitrix.Forms/Calitrix.Forms.iOS/bin/Debug/Calitrix.Forms.iOS.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/Calitrix.Forms/Calitrix.Forms.iOS/bin/Debug/Calitrix.Forms.iOS.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/CalitrixComponentsSample/bin/Debug/CalitrixComponentsSample.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/CalitrixComponentsSample/bin/Debug/CalitrixComponentsSample.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/ar/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/ar/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/ca/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/ca/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/cs/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/cs/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/da/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/da/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/de/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/de/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/el/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/el/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/es/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/es/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/fi/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/fi/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/fr/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/fr/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/he/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/he/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/hi/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/hi/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/hr/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/hr/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/hu/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/hu/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/id/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/id/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/it/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/it/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/ja/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/ja/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/ko/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/ko/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/ms/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/ms/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/nb/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/nb/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/nl/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/nl/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/pl/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/pl/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/pt/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/pt/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/ro/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/ro/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/ru/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/ru/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/sk/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/sk/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/sv/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/sv/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/th/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/th/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/tr/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/tr/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/uk/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/uk/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/vi/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/vi/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r \
-	/Users/allan.melo/Projects/Calitrix/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll \
+	/Users/allan.melo/gitProjects/CalitrixComponents/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll \
 	--target-framework \
 	"Xamarin.iOS,v1.0" \
-	/Users/allan.melo/Projects/Calitrix/iOS/bin/iPhoneSimulator/Debug/CalitrixComponentsSample.iOS.exe \
+	/Users/allan.melo/gitProjects/CalitrixComponents/iOS/bin/iPhoneSimulator/Debug/CalitrixComponentsSample.iOS.exe \

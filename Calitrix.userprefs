@@ -1,6 +1,22 @@
-﻿<Properties StartupConfiguration="{CBE4692C-E3BF-4B49-AF79-746C315095A7}|Default">
+﻿<Properties StartupConfiguration="{ADB33FA4-81BB-4EC6-9E3D-1870FBA56032}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Calitrix.Forms/Views/CustomLabel.cs" Line="12" Column="10" />
+      <File FileName="Calitrix.Forms/Enums/FontType.cs" Line="2" Column="1" />
+      <File FileName="Calitrix.Forms/Util/FontTypeUtil.cs" Line="7" Column="30" />
+      <File FileName="CalitrixComponentsSample/CalitrixComponentsSamplePage.xaml" Line="11" Column="1" />
+      <File FileName="CalitrixComponentsSample/obj/Debug/CalitrixComponentsSample.CalitrixComponentsSamplePage.xaml.g.cs" Line="20" Column="1" />
+      <File FileName="CalitrixComponentsSample/App.xaml.cs" Line="12" Column="59" />
+      <File FileName="iOS/AppDelegate.cs" Line="17" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Samples.CalitrixComponentsSample.CalitrixComponentsSample.iOS>
+  <MonoDevelop.Ide.ItemProperties.Samples.CalitrixComponentsSample.CalitrixComponentsSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.12AD23EC-4679-48E5-925C-25DC1A3D8B7E">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.Samples.CalitrixComponentsSample.CalitrixComponentsSample.iOS>
   <MonoDevelop.Ide.ItemProperties.Forms.Calitrix.Forms.Droid PreferredExecutionTarget="Android.Nexus_5X_API_25" />

@@ -1,4 +1,5 @@
-﻿using Xamarin.Forms;
+﻿using Calitrix.Forms;
+using Xamarin.Forms;
 
 namespace CalitrixComponentsSample
 {
@@ -9,6 +10,7 @@ namespace CalitrixComponentsSample
             InitializeComponent();
 
             MainPage = new CalitrixComponentsSamplePage();
+            CustomLabel.Init();
         }
 
         protected override void OnStart()

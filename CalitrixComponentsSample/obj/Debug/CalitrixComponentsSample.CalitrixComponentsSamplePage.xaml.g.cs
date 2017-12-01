@@ -11,8 +11,8 @@
 namespace CalitrixComponentsSample {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/allan.melo/Projects/Calitrix/CalitrixComponentsSample/CalitrixComponentsSa" +
-        "mplePage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/allan.melo/gitProjects/CalitrixComponents/CalitrixComponentsSample/Calitri" +
+        "xComponentsSamplePage.xaml")]
     public partial class CalitrixComponentsSamplePage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
