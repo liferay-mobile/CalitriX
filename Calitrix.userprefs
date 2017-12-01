@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{CBE4692C-E3BF-4B49-AF79-746C315095A7}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Samples.CalitrixComponentsSample.CalitrixComponentsSample.iOS>
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Samples.CalitrixComponentsSample.CalitrixComponentsSample.iOS>
+  <MonoDevelop.Ide.ItemProperties.Forms.Calitrix.Forms.Droid PreferredExecutionTarget="Android.Nexus_5X_API_25" />
+</Properties>
